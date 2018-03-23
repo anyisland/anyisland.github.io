@@ -22,5 +22,5 @@ permalink: pretty
 gems: [jekyll-paginate]
 
 paginate: 10
-theme: jekyll-theme-midnight
+theme: jekyll-theme-architect
 >>>>>>> be66c92d16fe7e1088b10c7a22570b9568c959bf
