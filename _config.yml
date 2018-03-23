@@ -22,4 +22,10 @@ permalink: pretty
 gems: [jekyll-paginate]
 
 paginate: 10
+<<<<<<< HEAD
 theme: jekyll-theme-midnight
+=======
+=======
+theme: jekyll-theme-time-machine
+>>>>>>> 0cc7da761606e66d4867ab32ce45338fd3a35f1d
+>>>>>>> be66c92d16fe7e1088b10c7a22570b9568c959bf
