@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -22,3 +23,6 @@ permalink: pretty
 gems: [jekyll-paginate]
 
 paginate: 10
+=======
+theme: jekyll-theme-merlot
+>>>>>>> 0cc7da761606e66d4867ab32ce45338fd3a35f1d
