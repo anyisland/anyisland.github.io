@@ -1,0 +1,15 @@
+#circle {
+    border-style: dotted;
+    border-width: 2px;
+    border-color: #888888;
+    border-radius: 100%;
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    margin: 0 auto;
+    background: #e2e2e2;
+    left: 50%;
+    top: 50%;
+    margin-left: -250px;
+    margin-top: -250px;
+}
