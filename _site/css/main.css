@@ -1,0 +1,9 @@
+#circle { border-style: dotted; border-width: 2px; border-color: #888888; border-radius: 100%; position: absolute; width: 500px; height: 500px; margin: 0 auto; background: #e2e2e2; left: 50%; top: 50%; margin-left: -250px; margin-top: -250px; }
+
+body { background-color: #e2e2e2; }
+
+h1, h2 { color: #777; text-align: center; font-family: josefin-sans, sans-serif; font-style: normal; font-weight: 400; font-size: 16pt; text-transform: uppercase; letter-spacing: 5px; position: relative; top: 43%; transform: translateY(-50%); }
+
+a { text-decoration: none; color: #777; padding: 10px; }
+
+user agent stylesheet a:-webkit-any-link { color: -webkit-link; cursor: pointer; text-decoration: underline; }
